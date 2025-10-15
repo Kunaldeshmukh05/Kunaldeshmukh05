@@ -69,13 +69,6 @@ optimization
 - 🔒 **Security Implementation** - Built production-grade JWT auth with refresh token
 rotation
 ---
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin
-&logoColor=white)](https://www.linkedin.com/in/kunal-deshmukh-352147234/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoC
-olor=white)](kunalm.deshmukh05@gmail.com)
-
----
 ### 💭 Quote
 > "Code is like humour. When you have to explain it, it's bad." - Cory House
 ---

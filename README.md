@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Kunal Deshmukh
 ## Backend Developer | Node.js Specialist | MERN Stack Enthusiast
 I build scalable server-side applications and REST APIs using Node.js and the MERN stack.
-Passionate about clean code, performance optimization, and solving complex technical
+Passionate about clean code, performance optimization, microservices, complex architecture and solving complex technical
 challenges.
 ---
 ### 💼 About Me
-- 🔭 Currently working on: **IAAS Cloud Platform** (Software as a Service)
-- 🌱 Learning: **Microservices Architecture, Docker, Kubernetes**
-- 💬 Ask me about: **Node.js, Express.js, MongoDB, REST APIs, Authentication, Schema Design and Modelling**
+- 🔭 Currently working on: **SAAS applications including Home Automation, Interview As A Service and multiple backend platforms** (Software as a Service)
+- 🌱 Learning: **Microservices Architecture, Scalable System Principles, Docker, Kubernetes, Cloud Services**
+- 💬 Ask me about: **Node.js, Express.js, MongoDB, REST APIs, Authentication, JWT, Schema Design and Modelling, Backend Architectures, Scalable Systems**
 - 📫 Reach me: **[kunalm.deshmukh05@gmail.com]** | **[LinkedIn](https://www.linkedin.com/in/kunal-deshmukh-352147234/)**
-- ⚡ Fun fact: Won **Star of the Month** award for technical excellence
+- ⚡ Fun fact: Won **Star of the Month** award for technical excellence, and the Brilliant Team Player Award for better coordination within the team. 
 ---
 ### 🛠️ Tech Stack
 **Backend**

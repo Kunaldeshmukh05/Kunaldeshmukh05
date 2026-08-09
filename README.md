@@ -1,6 +1,6 @@
 # Hi, I'm Kunal Deshmukh 👋
 
-### Full Stack Engineer | React.js | Node.js | Express.js | MongoDB
+### Full Stack Engineer | React.js | Node.js | Express.js | MongoDB | MySQL
 
 I am a Full Stack Engineer with 2.5 years of experience building and maintaining production-grade web applications, REST APIs, real-time systems, and cloud-deployed platforms.
 
